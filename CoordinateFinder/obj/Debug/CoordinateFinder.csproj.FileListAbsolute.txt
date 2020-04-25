@@ -1,0 +1,7 @@
+C:\Users\azhar\source\repos\CoordinateFinder\CoordinateFinder\bin\Debug\CoordinateFinder.exe.config
+C:\Users\azhar\source\repos\CoordinateFinder\CoordinateFinder\bin\Debug\CoordinateFinder.exe
+C:\Users\azhar\source\repos\CoordinateFinder\CoordinateFinder\bin\Debug\CoordinateFinder.pdb
+C:\Users\azhar\source\repos\CoordinateFinder\CoordinateFinder\obj\Debug\CoordinateFinder.csprojAssemblyReference.cache
+C:\Users\azhar\source\repos\CoordinateFinder\CoordinateFinder\obj\Debug\CoordinateFinder.csproj.CoreCompileInputs.cache
+C:\Users\azhar\source\repos\CoordinateFinder\CoordinateFinder\obj\Debug\CoordinateFinder.exe
+C:\Users\azhar\source\repos\CoordinateFinder\CoordinateFinder\obj\Debug\CoordinateFinder.pdb
